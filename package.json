@@ -1,0 +1,12 @@
+{
+  "name": "react-latest-cli",
+  "version": "0.0.1",
+  "description": "A CLI for Node, React, Webpack & Babel projects.",
+  "main": "index.js",
+  "author": "",
+  "dependencies": {
+  },
+  "bin": {
+    "react-latest-cli": "./src/index.js"
+  }
+}
